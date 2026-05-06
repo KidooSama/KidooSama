@@ -58,7 +58,7 @@ Olá, me chamo Talles e atuo como desenvolvedor de software. O meu foco é desen
     style="margin-right:.5rem; margin-bottom:.5rem;"
     align="left"
     height="180" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=KidooSama&$include_all_commits=true$show_icons=true&theme=tokyonight&title_color=58A6FF&text_color=C9D1D9&icon_color=79FF97&bg_color=0D1117&locale=pt-br"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=KidooSama&include_all_commits=true&show_icons=true&theme=tokyonight&title_color=58A6FF&text_color=C9D1D9&icon_color=79FF97&bg_color=0D1117&locale=pt-br"
   />
   
   <img 
