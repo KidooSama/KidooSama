@@ -16,7 +16,6 @@ Olá, me chamo Talles e atuo como desenvolvedor de software. O meu foco é desen
 
 ✉️ Email Pessoal: tallesbraga63@gmail.com
 
-[![](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tallesbraga63@gmail.com)
 [![](https://img.shields.io/badge/@KidooSama-100000?style=flat&logo=github&logoColor=white)](https://github.com/KidooSama)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talles-braga/)
 [![](https://img.shields.io/badge/@talles.brag-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/talles.brag/)
